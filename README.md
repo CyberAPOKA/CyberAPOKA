@@ -15,12 +15,10 @@
   <img align="center" alt="Christian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Christian-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
   
-  <img align="right" alt="Christian-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CbziYu5OAQW/">
+  ![hair](https://user-images.githubusercontent.com/77864655/161680200-5129e9de-8883-43d5-8bb2-8dbc989aa7d9.png)
+
 </div>
 
-   ##![tate2](https://user-images.githubusercontent.com/77864655/161679876-eff827ca-9007-4808-85ea-4e753f420f72.png)
-
- 
 <div> 
   <a href="https://instagram.com/christian.heartbreak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:oficialsteffens@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
