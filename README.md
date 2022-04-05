@@ -6,7 +6,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Christian-PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Christian-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Christian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Christian-Symfony" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align="center" alt="Christian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
